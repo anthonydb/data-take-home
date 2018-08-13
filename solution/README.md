@@ -15,4 +15,4 @@
 ### CSV Exercise
 
 * Create a Python 3.7 virtual environment and `cd` to the `\solution\csv\` directory.
-* Run the scraper with `python normalize.py`
+* Run the script with `python normalize.py`
